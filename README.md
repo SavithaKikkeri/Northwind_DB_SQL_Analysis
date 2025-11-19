@@ -1,5 +1,5 @@
 # Northwind_DB_SQL_Analysis
-# 📚 Northwind DB Analysis using MySQL Workbench
+# 📚 Northwind DB Analysis using SQL Workbench
 
 This workbook covers fundamental database concepts and practical SQL querying, targeting a Junior Data Analyst role at organizations like **Northwind Traders** and an **international research organization**.
 
